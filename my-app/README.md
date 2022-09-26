@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# this is just a test(don't use create-react-app), at least use vim  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
